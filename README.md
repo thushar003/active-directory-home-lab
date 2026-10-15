@@ -50,3 +50,14 @@ A small Windows domain built in VirtualBox to practice the day-to-day work of an
 - A second GPO tied to the Workstations OU
 
 ## Screenshots
+![](ipconfig.png)
+![](staticIP.png)
+![](domainjoin.png)
+![](afterjoining.png)
+![](GPOrestriction.png)
+![](GPOverification.png)
+![](lockoutpolicy.png)
+![](lockoutverified.png)
+![](ctrlpanelrestrict.png)
+![](accountunlocking.png)
+![](afterunlock.png)
